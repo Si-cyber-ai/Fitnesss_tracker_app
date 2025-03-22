@@ -58,12 +58,17 @@ Ensure you have the following dependencies installed:
 ```bash
 git clone https://github.com/your-username/personal-fitness-tracker.git
 cd personal-fitness-tracker
+ ```
+
 2️⃣ **Install Required Libraries**
 ```bash
 pip install -r requirements.txt
+ ```
+
 3️⃣ **Run the App**
 ```bash
 streamlit run app.py
+ ```
 
 ## 💻 Usage
 1️⃣ **Open the App:**  
@@ -88,6 +93,7 @@ If you'd like to contribute:
 - Create a **new branch**:  
 ```bash
 git checkout -b feature/YourFeature
+ ```
 
 ## 🙌 Acknowledgments
 This project was built using:  
